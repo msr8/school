@@ -1,0 +1,21 @@
+Income,Loan Amount,Education,Marital Status,Credit History,Loan Approved
+45000,150000,Graduate,Married,Good,Yes
+54000,160000,Graduate,Single,Poor,No
+61000,130000,Not Graduate,Married,Good,Yes
+72000,200000,Graduate,Married,Good,Yes
+38000,120000,Not Graduate,Single,Poor,No
+45000,130000,Graduate,Single,Good,Yes
+52000,175000,Graduate,Married,Good,Yes
+68000,210000,Graduate,Single,Poor,No
+75000,170000,Not Graduate,Married,Good,Yes
+81000,195000,Graduate,Single,Good,Yes
+50000,140000,Graduate,Married,Good,Yes
+60000,145000,Graduate,Single,Poor,No
+70000,190000,Graduate,Married,Good,Yes
+65000,185000,Graduate,Single,Good,Yes
+47000,120000,Not Graduate,Single,Poor,No
+55000,150000,Graduate,Married,Good,Yes
+40000,110000,Not Graduate,Single,Poor,No
+80000,200000,Graduate,Married,Good,Yes
+82000,215000,Graduate,Single,Good,Yes
+72000,180000,Graduate,Married,Good,Yes
